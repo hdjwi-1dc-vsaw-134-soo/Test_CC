@@ -1,4 +1,12 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "chunksize":
+        {
+         "height":16,
+         "width":9
+        }
+    },
  "height":124,
  "infinite":false,
  "layers":[
@@ -5674,7 +5682,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"admin-winter.png"
+         "value":"cc-admin.png"
         }, 
         {
          "name":"mapName",
